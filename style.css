@@ -1,0 +1,24 @@
+@font-face{
+    font-family: "Porcelain";
+    src: url(font/Porcelain.ttf);
+}
+body{
+    background-color:#e0ebe8;
+
+}
+nav{
+    position: relative;;
+}
+nav a{
+    position: relative;
+    top:3em;
+    color: #4ab19a;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.nava{
+    margin-right:2em; 
+}
+#scon{
+    position: relative;
+    top: 5em;
+}
